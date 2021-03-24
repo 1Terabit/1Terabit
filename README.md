@@ -1,7 +1,12 @@
+<center>
+
+![Anthwam](https://i.ibb.co/Yjjk9zy/NL-White2.png)
+</center>
+
 <h1 align='center'>
     ¡Hello there  <img src="https://i.ibb.co/fCj3kcH/maple-leaf-30x30.png" width="30"> I'm Anthwam
     <p align='center'>
- Fullstack Developer
+ Software Engineer
 </p>
 </h1>
 
