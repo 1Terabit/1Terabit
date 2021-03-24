@@ -16,15 +16,14 @@
 </br>
 </br>
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=anthwam&show_icons=true&count_private=true&theme=dark" width="450"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=anthwam&show_icons=true&count_private=true&theme=onedark" width="450"></a>
 </p>
 
 </br>
 </br>
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Anthwam&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Anthwam&layout=compact&theme=onedark" />
 </a>
 </p>
 </br>
