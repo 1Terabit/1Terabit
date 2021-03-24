@@ -66,6 +66,22 @@
 <a>
 <img src="https://img.shields.io/badge/Windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
 </a> 
+</br>
+</br>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anthwam&repo=site)](https://github.com/anthwam/site)
 
+</br>
+</br>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anthwam&repo=portfolio)](https://github.com/anthwam/portfolio)
+
+</br>
+</br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anthwam&repo=serviciohttp)](https://github.com/anthwam/serviciohttp)
+
+</br>
+</br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anthwam&repo=anthwam)](https://github.com/anthwam/anthwa)
