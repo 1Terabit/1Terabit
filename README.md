@@ -35,39 +35,45 @@
 
 # ⚙️ Techs
 
-<a><img src="https://img.shields.io/badge/go%20-%2338B2AC.svg?&style=for-the-badge&logo=go&logoColor=white"/>
-</a> 
-<a><img src="https://img.shields.io/badge/Javascript-%23FCC624.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
+<a><img src="https://img.icons8.com/dusk/48/000000/html-5.png"/>
 </a>
-<a><img src="https://img.shields.io/badge/react%20-%2338B2AC.svg?&style=for-the-badge&logo=react&logoColor=white"/>
+<a><img src="https://img.icons8.com/dusk/48/000000/css3.png"/>
 </a>
-<a><img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-</a> 
-<a><img src="https://img.shields.io/badge/firebase%20-%23F7DF1E.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
-</a> 
-<a><img src="https://img.shields.io/badge/ionic%20-%233776AB.svg?&style=for-the-badge&logo=ionic&logoColor=white"/>
-</a> 
-<a><img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<a><img src="https://img.icons8.com/color/48/000000/sass.png"/>
 </a>
-<a><img src="https://img.shields.io/badge/materialdesign%20-%23757575.svg?&style=for-the-badge&logo=material-design&logoColor=white"/>
+<a><img src="https://img.icons8.com/dusk/48/000000/javascript.png"/>
+</a>
+<a><img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+</a>
+<a><img src="https://img.icons8.com/color/48/000000/typescript.png"/>
 </a> 
-<a><img src="https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white"/>
+<a><img src="https://img.icons8.com/plasticine/48/000000/react.png"/>
 </a> 
-<a><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<a><img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
 </a> 
-<a><img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+<a><img src="https://img.icons8.com/color/48/000000/golang.png"/>
 </a> 
-<a><img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<a><img src="https://img.icons8.com/color/48/000000/flutter.png"/>
 </a> 
+<a><img src="https://img.icons8.com/color/50/000000/postgreesql.png"/>
+</a> 
+<a><img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+</a> 
+<a><img src="https://img.icons8.com/color/48/000000/redis.png"/>
+</a>
+<a><img src="https://img.icons8.com/fluent/48/000000/ethereum.png"/>
+</a>
+<a><img src="https://img.icons8.com/dusk/48/000000/docker.png"/>
+</a>
 ## 💽 Operating systems that I use
 <a>
-<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.icons8.com/dusk/64/000000/linux.png"/>
 </a> 
 <a>
-<img src="https://img.shields.io/badge/Mac Os-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white"/>
+<img src="https://img.icons8.com/dusk/64/000000/windows-logo.png"/>
 </a> 
 <a>
-<img src="https://img.shields.io/badge/Windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.icons8.com/plasticine/65/000000/mac-logo.png"/>
 </a> 
 </br>
 </br>
