@@ -1,96 +1,15 @@
-<h1 align='center'>
-    ¡Hello there  <img src="https://i.ibb.co/fCj3kcH/maple-leaf-30x30.png" width="30"> I'm Anthwam
-    <p align='center'>
- Software Engineer
-</p>
-<a href="https://anthwam.netlify.app/" target="_blank"><img alt="Site" src="https://i.ibb.co/BwGdRTC/Logo-sin-espacios.png"  width="250" /></a>
-</h1>
+<h1 align="center">Hi 👋, I'm Edwar</h1>
+<h3 align="center">A passionate Backend developer from Venezuela</h3>
 
-</br>
+- 🌱 I’m currently learning **NestJS, Flutter Flow**
 
-<p align='center'>
- Where to find me
-</p>
+- 👨‍💻 All of my projects are available at [https://anthwam.netlify.app/](https://anthwam.netlify.app/)
 
-<p align='center'>
-<a href="https://www.linkedin.com/in/anthwam/" target="_blank"><img alt="LinkedIn" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/Chinese-LI-Bug.svg.original.svg" /></a>
+- 📫 How to reach me **anthwam13@outlook.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-</br>
-</br>
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=anthwam&show_icons=true&count_private=true&theme=onedark" width="450"></a>
-</p>
-
-</br>
-</br>
-<p align='center'>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Anthwam&layout=compact&theme=onedark" />
-</a>
-</p>
-</br>
-</br>
-</br>
-
-# ⚙️ Techs
-
-<a><img src="https://img.icons8.com/dusk/48/000000/html-5.png"/>
-</a>
-<a><img src="https://img.icons8.com/dusk/48/000000/css3.png"/>
-</a>
-<a><img src="https://img.icons8.com/color/48/000000/sass.png"/>
-</a>
-<a><img src="https://img.icons8.com/dusk/48/000000/javascript.png"/>
-</a>
-<a><img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-</a>
-<a><img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-</a> 
-<a><img src="https://img.icons8.com/plasticine/48/000000/react.png"/>
-</a> 
-<a><img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
-</a> 
-<a><img src="https://img.icons8.com/color/48/000000/golang.png"/>
-</a> 
-<a><img src="https://img.icons8.com/color/48/000000/flutter.png"/>
-</a> 
-<a><img src="https://img.icons8.com/color/50/000000/postgreesql.png"/>
-</a> 
-<a><img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-</a> 
-<a><img src="https://img.icons8.com/color/48/000000/redis.png"/>
-</a>
-<a><img src="https://img.icons8.com/fluent/48/000000/ethereum.png"/>
-</a>
-<a><img src="https://img.icons8.com/dusk/48/000000/docker.png"/>
-</a>
-## 💽 Operating systems that I use
-<a>
-<img src="https://img.icons8.com/dusk/64/000000/linux.png"/>
-</a> 
-<a>
-<img src="https://img.icons8.com/dusk/64/000000/windows-logo.png"/>
-</a> 
-<a>
-<img src="https://img.icons8.com/plasticine/65/000000/mac-logo.png"/>
-</a> 
-</br>
-</br>
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anthwam&repo=site)](https://github.com/anthwam/site)
-
-</br>
-</br> -->
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anthwam&repo=portfolio)](https://github.com/anthwam/portfolio)
-
-</br>
-</br> -->
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anthwam&repo=serviciohttp)](https://github.com/anthwam/serviciohttp)
-
-</br>
-</br> -->
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anthwam&repo=anthwam)](https://github.com/anthwam/anthwa) -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
