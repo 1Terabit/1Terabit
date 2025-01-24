@@ -1,4 +1,4 @@
-# Edwar Anthwam
+# 64Bits
 
 <h2 align="center">About me</h2>
 
