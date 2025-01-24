@@ -1,4 +1,4 @@
-# 64Bits
+# Edwar Susarra
 
 <h2 align="center">About me</h2>
 
