@@ -3,25 +3,23 @@
 <h2 align="center">About me</h2>
 
 ```
-import java.util.HashMap;
-import java.util.Map;
-
-public class Main {
-    public static void main(String[] args) {
-        for (Map.Entry<String, String> entry : getBio().entrySet()) {
-            System.out.printf("%s: %s%n", entry.getKey(), entry.getValue());
-        }
-    }
-
-    public static Map<String, String> getBio() {
-        Map<String, String> bio = new HashMap<>();
-        bio.put("🌱 I’m currently learning", "Golang, MongoDB, RabbitMQ, K8s, GCP — Sharpening my Front End Skills for the MERN stack (Personal goal)");
-        bio.put("👯 I’m looking to collaborate on", "Projects related to Nodejs, Flutter, Golang, Java, and Docker");
-        bio.put("🤔 I’m looking for help with", "Anything related to what I am currently learning 😅");
-        bio.put("💬 Ask me about", "Java, javascript, typescript, SQL, Software Design & Architecture");
-        return bio;
+function main() {
+    const bio = getBio();
+    for (const [key, value] of Object.entries(bio)) {
+        console.log(`${key}: ${value}`);
     }
 }
+
+function getBio() {
+    return {
+        "👯 I’m looking to collaborate on": "Projects related to Nodejs, Flutter, Golang, Java, and Docker",
+        "🤔 I’m looking for help with": "Anything related to what I am currently learning 😅",
+        "💬 Ask me about": "Java, javascript, typescript, SQL, Software Design & Architecture"
+    };
+}
+
+main();
+
 
 ```
 
