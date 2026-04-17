@@ -1,4 +1,4 @@
-Hi there, I'm Edwar Susarra 👋
+Hi there 👋
 
 <p align="left">
 <img src="https://img.shields.io/badge/Senior%20Software%20Engineer-Staff%20Level-blue?style=for-the-badge" />
@@ -8,7 +8,10 @@ Hi there, I'm Edwar Susarra 👋
 
 👨‍💻 About me
 
-const edwar = {
+## 👨‍💻 My Profile in Code
+
+```javascript
+const me = {
     experience: "9+ years architecting scalable digital products",
     specialties: ["High-Concurrency Backend", "Distributed Systems", "Platform Foundations"],
     focus: "Performance Optimization & AI-Driven Development",
@@ -20,7 +23,7 @@ const edwar = {
         mentoring: "Software Design Patterns & Clean Architecture"
     }
 };
-
+```
 
 🛠️ Tech Stack & Ecosystem
 
