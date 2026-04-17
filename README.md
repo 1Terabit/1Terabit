@@ -36,10 +36,10 @@ const me = {
 <img src="https://skillicons.dev/icons?i=python,ts,go,rust,java,js" />
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,nesjs,spring,kafka,postgres,redis" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,nestjs,spring,kafka,postgres,redis" />
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,podman,terraform,githubactions" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform,githubactions" />
 </td>
 </tr>
 </table>
