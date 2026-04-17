@@ -36,10 +36,10 @@ const me = {
 <img src="https://skillicons.dev/icons?i=python,ts,go,rust,java,js" />
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,spring,kafka,postgres,redis" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,nesjs,spring,kafka,postgres,redis" />
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform,githubactions" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,podman,terraform,githubactions" />
 </td>
 </tr>
 </table>
@@ -51,7 +51,7 @@ const me = {
 </tr>
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,jest,cypress" />
+<img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind,jest,cypress" />
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
