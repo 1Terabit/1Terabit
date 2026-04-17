@@ -59,19 +59,14 @@ const edwar = {
 </td>
 </tr>
 </table>
+
 📈 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=1terabit&show_icons=true&theme=tokyonight&count_private=true" alt="Edwar's GitHub Stats" height="180" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1terabit&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180" />
 </p>
-📬 Connect with me
 
-<p align="center">
-<a href="https://linkedin.com/in/susarraed" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://1terabit.github.io/es-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" /></a>
-<a href="mailto:susarraed@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
 
 
 
