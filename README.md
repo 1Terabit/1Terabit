@@ -1,12 +1,10 @@
-Hi there 👋
+# Hi there 👋
 
-<p align="left">
+<p align="center">
 <img src="https://img.shields.io/badge/Senior%20Software%20Engineer-Staff%20Level-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Performance%20Specialist-Optimization-green?style=for-the-badge" />
 <img src="https://img.shields.io/badge/AI--Augmented-Efficiency-orange?style=for-the-badge" />
 </p>
-
-👨‍💻 About me
 
 ## 👨‍💻 My Profile in Code
 
@@ -25,7 +23,7 @@ const me = {
 };
 ```
 
-🛠️ Tech Stack & Ecosystem
+## 🛠️ Tech Stack & Ecosystem
 
 <table align="center">
 <tr>
@@ -63,7 +61,7 @@ const me = {
 </tr>
 </table>
 
-📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=1terabit&show_icons=true&theme=tokyonight&count_private=true" alt="Edwar's GitHub Stats" height="180" />
