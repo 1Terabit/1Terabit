@@ -58,7 +58,7 @@ const me = {
 <img src="https://img.shields.io/badge/windsurf-F0F6FC?style=flat-square&logo=windsurf&logoColor=black" />
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI_SDK-412991?style=flat-square&logo=openai&logoColor=white" />
-    <img src="https://img.shields.io/badge/Langchain-412991?style=flat-square&logo=Langchain&logoColor=white" />
+    <img src="https://img.shields.io/badge/Langchain-412991?style=flat-square&logo=Langchain&logoColor=black" />
 </td>
 </tr>
 </table>
