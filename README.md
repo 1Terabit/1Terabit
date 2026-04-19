@@ -13,7 +13,7 @@ const me = {
     experience: "9+ years architecting scalable digital products",
     specialties: ["High-Concurrency Backend", "Distributed Systems", "Platform Foundations"],
     focus: "Performance Optimization & AI-Driven Development",
-    currentTools: ["Python", "Go", "Rust", "TypeScript", "Kafka", "AWS"],
+    currentTools: ["Python", Java, "Go", "Rust", "TypeScript", "Kafka", "AWS"],
     philosophy: "Building for 99.99% uptime and zero-friction developer experience",
     status: {
         collaboratingOn: "Complex Backend Architectures & Micro-frontend ecosystems",
