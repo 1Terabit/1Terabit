@@ -55,7 +55,7 @@ const me = {
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
-<img src="https://img.shields.io/badge/windsurf-D97757?style=flat-square&logo=windsurf&logoColor=white" />
+<img src="https://img.shields.io/badge/windsurf-#00FF9D?style=flat-square&logo=windsurf&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI_SDK-412991?style=flat-square&logo=openai&logoColor=white" />
 </td>
